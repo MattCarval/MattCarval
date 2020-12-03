@@ -19,8 +19,6 @@
   <a href="https://api.whatsapp.com/send?phone=5534999504154&text=Olá%20Matheus,%20tudo%20bem?" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999504154&text=Olá%20Matheus,%20tudo%20bem?"/></a>
 
-  <a href="https://www.instagram.com/mattcarval/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mattcarval/"/></a>
   <img src="https://komarev.com/ghpvc/?username=mattcarval" alt="mattcarval" /> 
 </p>  
 <p align="left">
