@@ -1,7 +1,7 @@
 <h1 align="left">Hi dear 👋, I'm Matheus</h1>
 <h3 align="left">A Web Developer</h3>
 
-- 🔭 I’m currently working on [BOWE](https://github.com/bowe-td)
+- 🔭 I’m currently working on [Zup](https://github.com/ZupIT)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
